@@ -23,6 +23,12 @@ A darkly humorous, feature-complete Tic Tac Toe game built with Windows Forms.
 - Windows Forms (.NET Framework)
 - C#
 - Visual Studio
+## 📸 Application Preview
+<img width="737" height="435" alt="1" src="https://github.com/user-attachments/assets/e6378dbf-e11b-47a8-a730-20c84ab50209" />
+
+<img width="803" height="452" alt="2" src="https://github.com/user-attachments/assets/ece73566-84c9-4c4b-a218-6f26f3486144" />
+
+<img width="793" height="444" alt="34" src="https://github.com/user-attachments/assets/d642dbe0-95e0-4ead-8ea1-a4a5e6dcd3a4" />
 
 ## 📥 Installation
 
